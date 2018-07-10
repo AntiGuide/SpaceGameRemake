@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: ced78cc421f7dfe4e8c26fa7b5b9d785
+timeCreated: 1511623778
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Ignis et Glacies Sharp
+  fontNames:
+  - Ignis et Glacies Sharp
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
